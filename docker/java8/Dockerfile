@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:rolling
 MAINTAINER Andy Glover "ajglover@gmail.com"
 
 RUN apt-get update -y
