@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:groovy-20210614
 MAINTAINER Andy Glover "ajglover@gmail.com"
 
 RUN apt-get update -y
