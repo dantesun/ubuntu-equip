@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:20.10
 MAINTAINER Andy Glover "ajglover@gmail.com"
 
 RUN apt-get update -y
