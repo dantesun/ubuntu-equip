@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:22.04
 MAINTAINER Andy Glover "ajglover@gmail.com"
 
 RUN apt-get update -y
