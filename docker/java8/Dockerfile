@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:24.10
 MAINTAINER Andy Glover "ajglover@gmail.com"
 
 RUN apt-get update -y
